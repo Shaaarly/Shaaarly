@@ -139,6 +139,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/Shaaarly)
+[Shaaarly](https://github.com/Shaaarly)
 
 Last Edited on: 26/06/2024

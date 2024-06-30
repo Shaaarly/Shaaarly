@@ -62,6 +62,7 @@ Hi, I'm Carles Tur!
 ### 🗄️ Databases and Version Control
 
 <p>
+    <a href="https://github.com/Shaaarly"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL%20-%2343853D.svg?logo=mongodb&logoColor=white"></a>

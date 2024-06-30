@@ -91,26 +91,39 @@ Hi, I'm Carles Tur!
 
 <br/>
 <details>
-  <summary><b>⚡ Shaaarly's GitHub Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/Shaaarly">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly&theme=dark" alt="GitHub Streak">
-    </a>
-  </p>
-  <br/>
-  <summary><b>⚡ Top Languages</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Shaaarly">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaarly&langs_count=8&layout=compact&theme=dark" alt="Top Languages">
-    </a>
-    <br/>
-    <br/>
-    <b>Note:</b> The Top Languages metric shows the languages my public repositories use, not my proficiency level.
-  </p>
-  <br/>
+<summary><b>⚡ Shaaarly's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Shaaarly">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true" alt="Shaaarly">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly" alt="Shaaarly">
+	</a>
+	<br/>
+</p>
+<br/>
+<!--
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Shaaarly">
+		<img src="https://activity-graph.herokuapp.com/graph?username=Shaaarly&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shaaarly">
+	</a>
+</p>
+<br/>
+-->
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
+
+<p align="center">
+	<a href="https://github.com/Shaaarly">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaarly&langs_count=8&layout=compact" alt="Shaaarly">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
 </details>
 
 

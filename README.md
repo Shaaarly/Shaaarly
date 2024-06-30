@@ -77,10 +77,10 @@ Hi, I'm Carles Tur!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/Shaaarly"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Shaaarly's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Shaaarly">
@@ -95,7 +95,7 @@ Hi, I'm Carles Tur!
 <br/>
 <p align="center">
 	<a href="https://github.com/Shaaarly">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shaaarly">
+		<img src="https://activity-graph.herokuapp.com/graph?username=Shaaarly&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shaaarly">
 	</a>
 </p>
 <br/>

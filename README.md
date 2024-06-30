@@ -87,7 +87,7 @@ Hi, I'm Carles Tur!
 -->
 
 
-## <a href="https://github.com/Shaaarly"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## [![Stats Graphic](https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png)](https://github.com/Shaaarly) GitHub Stats
 
 <br/>
 <details>

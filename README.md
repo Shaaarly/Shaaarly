@@ -48,7 +48,7 @@ Hi, I'm Carles Tur!
     <a href="https://github.com/Shaaarly"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-
+    <a href="https://github.com/Shaaarly"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
     
 
 ### 🧰 Frameworks and Libraries
@@ -122,7 +122,7 @@ Hi, I'm Carles Tur!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:carlesturcardona@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/carles-tur-cardona-9a2278147/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://es.fiverr.com/carlesturmusic?up_rollout=true">Fiverr</a> or <a href="https://www.linkedin.com/in/carles-tur-cardona-9a2278147/">LinkedIn</a> to deploy your web project or webpage.
 
   </td>
   <td width="50%" valign="top">

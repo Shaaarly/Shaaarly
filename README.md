@@ -6,10 +6,10 @@ Hi, I'm Carles Tur!
 </h1>
 <p align="center">
 	<a href="https://github.com/Shaaarly">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=shaaarly&label=Profile%20views&color=0e75b6&style=flat" alt="Shaaarly" />
 	</a>
 	<a href="https://github.com/Shaaarly">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/shaaarly?label=Followers" alt="Shaaarly" />
 	</a>
 </p>
 <br/>

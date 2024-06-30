@@ -95,8 +95,8 @@ Hi, I'm Carles Tur!
   <br/>
   <p align="center">
     <a href="https://github.com/Shaaarly" style="display: flex; justify-content: space-between;">
-      <img style="object-fit: cover; height: 180px; width: 49.5%;" src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-      <img style="object-fit: cover; height: 180px; width: 49.5%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly&theme=dark" alt="GitHub Streak">
+      <img style="object-fit: cover; height: 180px; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+      <img style="object-fit: cover; height: 180px; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly&theme=dark" alt="GitHub Streak">
     </a>
   <br/>
   <summary><b>⚡ Top Languages</b></summary>

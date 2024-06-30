@@ -95,8 +95,8 @@ Hi, I'm Carles Tur!
   <br/>
   <p align="center">
     <a href="https://github.com/Shaaarly">
-      <img style="height: 400px;" width="49.5%"src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-      <img style="height: 400px;" width="49.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly&theme=dark" alt="GitHub Streak">
+      <img width="49.5%"src="https://github-readme-stats.vercel.app/api?username=Shaaarly&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+      <img width="49.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaarly&theme=dark" alt="GitHub Streak">
     </a>
   </p>
   <br/>

@@ -86,11 +86,9 @@ Hi, I'm Carles Tur!
 </p>
 -->
 
-
-## <a href="https://github.com/Shaaarly"><img alt="GitHub Stats" src="https://img.shields.io/badge/GitHub%20Stats-%23327FC7.svg?logo=github&logoColor=white"></a>
+### 📊 GitHub Stats
 
 <br/>
-<details>
   <summary><b>⚡ Shaaarly's GitHub Stats</b></summary>
   <br/>
   <p align="center">
@@ -110,7 +108,6 @@ Hi, I'm Carles Tur!
     <b>Note:</b> The Top Languages metric shows the languages my public repositories use, not my proficiency level.
   </p>
   <br/>
-</details>
 <br/>
 
 

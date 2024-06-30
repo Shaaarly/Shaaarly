@@ -37,6 +37,8 @@ Hi, I'm Carles Tur!
 	<a href="mailto:carlesturcardona@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/carles-tur-cardona-9a2278147/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Shaaarly"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Shaaarly"><img src="[https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white](https://img.shields.io/badge/:badgeContent?style=social&logo=html
+)" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -45,6 +47,7 @@ Hi, I'm Carles Tur!
 
 <p>
     <a href="https://github.com/Shaaarly"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    
 
 ### 🧰 Frameworks and Libraries
 

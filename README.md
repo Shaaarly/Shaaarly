@@ -24,9 +24,9 @@ Hi, I'm Carles Tur!
 <pre>
 💻 I am currently growing as a Web App Developer
 📝 I have a strong interest in Cibersecurity
-🔭 Working as freelancer creating webs for small busisness
-🌱 Learning about js, php, sass, gulp, node,js and more
-🌟 Main languages: HTML, CSS, JAVA, MySQL
+🔭 Working as freelancer creating webs for townhalls
+🌱 Learning about js, php, sass, gulp, node.js and more
+🌟 Main languages: PHP, JS, HTML, CSS, JAVA, MySQL, MongoDB
 🚩 Interested in Full Stack Developer or Pentester/Ethical Hacker in a future
 <!-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" **target="_blank">MY RESUME.</a> -->
 </pre>

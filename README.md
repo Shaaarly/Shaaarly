@@ -45,7 +45,6 @@ Hi, I'm Carles Tur!
 
 <p>
     <a href="https://github.com/Shaaarly"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Shaaarly"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
@@ -54,8 +53,7 @@ Hi, I'm Carles Tur!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Shaaarly"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?logo=sass&logoColor=white"></a>
-    <a href="https://github.com/Shaaarly"><img alt="Gulp" src="https://img.shields.io/badge/Gulp%20-%23CF4647.svg?logo=gulp&logoColor=white"></a>
+    <a href="https://github.com/Shaaarly"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 
@@ -65,13 +63,20 @@ Hi, I'm Carles Tur!
     <a href="https://github.com/Shaaarly"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/Shaaarly"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL%20-%2343853D.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://github.com/Shaaarly"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white"></a>
 
 </p>
 
 ### 💻 Software and Tools
 
 <p>
+	
+    <a href="https://github.com/Shaaarly"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/Shaaarly"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black"></a>
+    <a href="https://github.com/Shaaarly"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?logo=sass&logoColor=white"></a>
+    <a href="https://github.com/Shaaarly"><img alt="Gulp" src="https://img.shields.io/badge/Gulp%20-%23CF4647.svg?logo=gulp&logoColor=white"></a>
+    <a href="https://github.com/Shaaarly"><img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23646CFF.svg?logo=vite&logoColor=white"></a>
+
     <a href="https://github.com/Shaaarly"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>

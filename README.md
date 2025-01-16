@@ -48,7 +48,8 @@ Hi, I'm Carles Tur!
     <a href="https://github.com/Shaaarly"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/Shaaarly"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/Shaaarly"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>    
+    <a href="https://github.com/Shaaarly"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
+</p>
 
 ### 🧰 Frameworks and Libraries
 
